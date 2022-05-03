@@ -12,5 +12,5 @@ Virginia Commonwealth University
 Adjunct Professor of Statistics, [Department of Statistics & Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science)  
 University of Waterloo  
 
-Honorary Associate Professor (Level D), Institute for Climate, Energy & Disaster Solutions ([ICEDS](https://iceds.anu.edu.au)   
+Honorary Associate Professor (Level D), Institute for Climate, Energy & Disaster Solutions ([ICEDS](https://iceds.anu.edu.au))   
 Australian National University  
