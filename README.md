@@ -1,6 +1,6 @@
 # GS Chiu, PhD
 [Professor of Environmental Statistics, Virginia Institute of Marine Science](https://www.vims.edu/people/chiu_gs) (VIMS)  
-VIMS Environmental Statistics and Transdisciplinary Data Science [(ESTDatS) Lab](https://www.vims.edu/research/units/labgroups/estdats)
+VIMS Environmental Statistics and Transdisciplinary Data Science [(ESTDatS) Lab](https://www.vims.edu/research/units/labgroups/estdats)  
 William & Mary  
 
 Affiliate Professor, Computational & Applied Mathematics & Statistics ([CAMS](https://www.wm.edu/as/cams))  
