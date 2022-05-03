@@ -14,3 +14,6 @@ University of Waterloo
 
 Honorary Associate Professor (Level D), Institute for Climate, Energy & Disaster Solutions ([ICEDS](https://iceds.anu.edu.au))   
 Australian National University  
+
+Affiliate Associate Professor, [Department of Statistics](https://stat.uw.edu)  
+University of Washington  
